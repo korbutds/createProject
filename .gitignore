@@ -1,0 +1,13 @@
+# С этим фалом должно быть все ясно. Это все те файлы/папки следить за изменениями которых не нужно.
+.DS_Store
+.idea
+.vscode
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
+node_modules/
+npm-debug.*
+build/
+Thumbs.db
